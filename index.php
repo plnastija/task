@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>task_2</title>
+    <title>task_anastasija</title>
 </head>
 <body>
 <h1>task_1</h1>
